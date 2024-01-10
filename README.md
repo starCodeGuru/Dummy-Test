@@ -1,5 +1,6 @@
 # Vue3 CRUD
 
+> Author: Mihail Seremet
 > Dummy dashboard page with CRUD operation(Vue3)
 
 ## Features

@@ -9,8 +9,7 @@
     "build-only": "vite build",
     "type-check": "vue-tsc --noEmit",
     "lint": "eslint . --ext .vue,.ts,tsx --fix --ignore-path .gitignore",
-    "format": "prettier --write src/",
-    "mock": "json-server --watch db.json"
+    "format": "prettier --write src/"
   },
   "dependencies": {
     "axios": "^0.27.2",
